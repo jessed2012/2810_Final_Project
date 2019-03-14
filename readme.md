@@ -1,15 +1,18 @@
 # Project Scope 
 
+## Collaborators: Ashton Chatelain, Jesse Duran, Joseph Bradford
+
 ## 1 Project Name: Smart Watch
 
 ## 2 Inspiration for the project: [*self balancing robot*](https://www.youtube.com/watch?v=g5DNjcppkYU&feature=youtu.be) 
 
 ## 3 Basic task(s) to be performed
- - aquire hardware
- - code system
- - test code in system
- - assemble robot
- - test system
+ - Aquire hardware
+ - Code system
+ - Test code in system
+ - Assemble robot
+ - Test system
+ - [Create White Paper](WhitePaperRubric.xlsx)
 
 ## 4 List # and type of microcontrollers to be used
  - Arduino uno
@@ -22,9 +25,23 @@
  - battery
  
 ## 6 Team member assignments and timeline
+
+# team assignments:
  - Ashton TBD
  - Jesse TBD 
  - Joseph TBD
+ 
+# Timeline
+1. Research your choice of microcontroller and related equipment
+	- We will use the Adruino Uno, servos, and sensors
+2. Select a project, get started, and have fun.
+	- Selected Self balancing robot
+3. Write a formal White Paper. Submit a .doc or .pdf file.
+	- Due 4/15
+4. Demo your project to the class. 10-15 minute presentation.
+	- Due 4/15
+5. Submit Peer reviews.
+	- Due TBD
 
 <!--- ultrasonic distance detector https://www.instructables.com/id/distance-measurement-with-24-ftf-and-ultrasonic-se/ -->
 
