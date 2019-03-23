@@ -7,7 +7,7 @@
 ### 2 Inspiration for the project: [*self balancing robot*](https://www.youtube.com/watch?v=g5DNjcppkYU&feature=youtu.be) 
 
 ### 3 Basic task(s) to be performed
- - Aquire hardware
+ - Aquire hardware - ordered 3/23
  - Code system
  - Test code in system
  - Assemble robot
@@ -27,9 +27,9 @@
 ### 6 Team member assignments and timeline
 
 ### team assignments:
- - Ashton TBD
- - Jesse TBD 
- - Joseph TBD
+ - Ashton: order parts.
+ - Jesse: Create body structure.
+ - Joseph: researched possible project parts.
  
 ## Timeline
 1. Research your choice of microcontroller and related equipment
