@@ -1,8 +1,8 @@
 # Project Scope 
 
-## Collaborators: Ashton Chatelain, Jesse Duran, Joseph Bradford
+### Collaborators: Ashton Chatelain, Jesse Duran, Joseph Bradford
 
-## 1 Project Name: Self Balancing Robot
+### 1 Project Name: Self Balancing Robot
 
 ### 2 Inspiration for the project: [*self balancing robot*](https://www.youtube.com/watch?v=g5DNjcppkYU&feature=youtu.be) 
 
@@ -12,7 +12,7 @@
  - Test code in system
  - Assemble robot
  - Test system
- - [Create White Paper](WhitePaperRubric.xlsx)
+ - [Create White Paper](whitepaper.md)
 
 ### 4 List # and type of microcontrollers to be used
  - Arduino uno
