@@ -1,36 +1,33 @@
 # Project Scope 
 
-### Collaborators: Ashton Chatelain, Jesse Duran, Joseph Bradford
+### Team Members: Ashton Chatelain, Jesse Duran, Joseph Bradford
 
-### 1 Project Name: Self Balancing Robot
+### 1 Team Name: Robot Bullies
 
 ### 2 Inspiration for the project: [*self balancing robot*](https://www.youtube.com/watch?v=g5DNjcppkYU&feature=youtu.be) 
 
 ### 3 Basic task(s) to be performed
- - Aquire hardware - ordered 3/23
- - Code system
- - Test code in system
+ - Aquire hardware - UPDATE only need wire and to print the 3D frame
  - Assemble robot
  - Test system
- - [Create White Paper](whitepaper.md)
+ - [Create White Paper, basic outline begun here](whitepaper.md)
 
 ### 4 List # and type of microcontrollers to be used
  - Arduino uno
 
 ### 5 List additional equipment needed
- - sensors
- - hardware robot frame eg screws, wood/plastic
- - servos and wheels
- - wiring
- - battery
+ - wiring: needs to be picked up asap
+ - frame: being 3D printed this week
+ - hardware robot frame eg screws, wood/plastic: need screws to mount sensor and arduino
+ - sensors - gyroscope: aquired
+ - servos and wheels: aquired
+ - battery: aquired
  
 ### 6 Team member assignments and timeline
-
-### team assignments:
- - Ashton: order parts.
- - Jesse: Create body structure.
- - Joseph: researched possible project parts.
- 
+- Jesse: 3D print frame by saturday 4/6
+- Joseph: purchase wire and gather hardware by 4/6
+- Ashton: begin whitepaper
+ <!---
 ## Timeline
 1. Research your choice of microcontroller and related equipment
 	- We will use the Adruino Uno, servos, and sensors
@@ -45,7 +42,7 @@
 5. Submit Peer reviews.
 	- Due TBD
 
-<!--- ultrasonic distance detector https://www.instructables.com/id/distance-measurement-with-24-ftf-and-ultrasonic-se/ -->
+ ultrasonic distance detector https://www.instructables.com/id/distance-measurement-with-24-ftf-and-ultrasonic-se/ -->
 
 <!--- PONG game for two https://github.com/redbird457/TFTPong -->
 
